@@ -1,0 +1,22 @@
+[Unit]
+Description=Run vlt.py at startup
+After=graphical.target
+
+[Service]
+ExecStartPre=/bin/sleep 10
+ExecStart=/home/vltahs/vlt/myenv/bin/python3 /home/vltahs/vlt/vltAHS.py
+WorkingDirectory=/home/vltahs/vlt
+User=vltahs
+EnvironmentFile=/home/vltahs/environment
+Environment=DISPLAY=:0
+Environment=XAUTHORITY=/home/vltahs/.Xauthority
+Environment=XDG_RUNTIME_DIR=/run/user/%U
+RuntimeDirectory=runtime-%U
+RuntimeDirectoryMode=0755
+Restart=always
+StandardOutput=file:/home/vltahs/vlt/vlt_output.log
+StandardError=file:/home/vltahs/vlt/vlt_error.log
+
+[Install]
+WantedBy=default.target
+
