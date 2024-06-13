@@ -1,0 +1,26 @@
+    1  sudo vi /etc/default/grub
+    2  sudo update-grub
+    3  reboot
+    4  sudo apt update
+    5  sudo apt upgrade
+    6  sudo apt install xserver-xorg-video-intel
+    7  top
+    8  ls
+    9  cd Documents/
+   10  ls
+   11  cd ..
+   12  cd vlt/
+   13  ls
+   14  python3 vltAHS.py 
+   15  pip3
+   16  sudo apt install python3-pip
+   17  python3 -m venv myenv
+   18  sudo apt install python3.12-venv
+   19  python3 -m venv myenv
+   20  source myenv/bin/activate
+   21  pip3 install PyQt5
+   22  pip3 install PyQtWebEngine
+   23  ls
+   24  python3 vltAHS.py 
+   25  history
+   26  history > commands.log

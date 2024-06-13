@@ -1,0 +1,64 @@
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+js: The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu
+js: Override config key: --availableResolution-- doesn't exist, creating now
+js: Override config key: --maxAnimList-- doesn't exist, creating now
+js: Override config key: --gameTabName-- doesn't exist, creating now
+js: Override config key: --trgBig-- doesn't exist, creating now
+js: Override config key: --maxBonusLevels-- doesn't exist, creating now
+js: Override config key: --urlLagTime-- doesn't exist, creating now
+js: Override config key: --urlFreeGames-- doesn't exist, creating now
+js: Override config key: --urlCheat-- doesn't exist, creating now
+js: Override config key: --urlProbabilityTable-- doesn't exist, creating now
+js: Override config key: --urlSheet-- doesn't exist, creating now
+js: Override config key: --MaxMutiplier-- doesn't exist, creating now
+js: Override config key: --MinMaxMultiplierByLevel-- doesn't exist, creating now
+js: Override config key: --simResolution-- doesn't exist, creating now
+[1559:1590:0613/141349.808338:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141350.840987:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141351.325868:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141351.643873:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141351.869598:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141352.333542:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141352.622208:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141352.942735:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141353.169585:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141353.578505:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141355.442489:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141356.071243:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141356.499680:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141358.493877:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141358.685961:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141358.686545:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141359.066202:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141359.285488:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141359.481706:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1559:1590:0613/141401.609852:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x28f5d00]RENDER WARNING: there is no texture bound to the unit 0
+[1498:1528:0610/165724.970488:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x1733a20]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x1733a20]RENDER WARNING: there is no texture bound to the unit 0
+[1498:1528:0610/165725.385197:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x1733a20]RENDER WARNING: there is no texture bound to the unit 0
+[1498:1528:0610/165725.385545:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x1733a20]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x1733a20]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x1733a20]RENDER WARNING: there is no texture bound to the unit 0
+[1498:1528:0610/165728.711204:ERROR:gles2_cmd_decoder.cc(10710)] [.WebGL-0x1733a20]RENDER WARNING: there is no texture bound to the unit 0
+js: [.WebGL-0x1733a20]RENDER WARNING: there is no texture bound to the unit 0
